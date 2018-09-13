@@ -6,6 +6,7 @@
 
 ### 2. 安装依赖
 `python3`
+
 `pip3 install -r requirements.txt`
 
 ### 3. 运行
